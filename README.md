@@ -5,7 +5,7 @@ Complete examples and practice questions from the course "Ultimate Design Patter
 
 ## Patterns
 1. Adapter 
-2. Birdge
+2. Bridge
 3. Chain-of-responsibility
 4. Command
 5. Composite
