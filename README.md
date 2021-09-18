@@ -3,7 +3,7 @@ Complete examples and practice questions from the course "Ultimate Design Patter
 
 > NOTE: All the examples are in Java Programming Language.
 
-# Patterns
+## Patterns
 1. Adapter 
 2. Birdge
 3. Chain-of-responsibility
@@ -19,3 +19,8 @@ Complete examples and practice questions from the course "Ultimate Design Patter
 13. State
 14. Template
 15. Visitor
+
+## Summary of GOF design pattern document
+[Behavioural Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/1-%20Behavioral%20Patterns%20Summary.pdf)
+[Structural Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/2-%20Structural%20Patterns%20Summary.pdf)
+[Creational Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/3-%20Creational%20Patterns%20Summary.pdf)
