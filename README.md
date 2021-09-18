@@ -1,4 +1,4 @@
-# :sunflower: 23 GOF Design Patterns
+# :sunflower: Gang Of Four 23 Design Patterns
 Complete notes, examples and practice questions from the course "Ultimate Design Patterns with Mosh"
 
 > NOTE: All the examples are in Java Programming Language.
