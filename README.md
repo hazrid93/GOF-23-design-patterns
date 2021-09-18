@@ -1,5 +1,5 @@
 # :sunflower: 23 GOF Design Patterns
-Complete examples and practice questions from the course "Ultimate Design Patterns - Mosh"
+Complete notes, examples and practice questions from the course "Ultimate Design Patterns with Mosh"
 
 > NOTE: All the examples are in Java Programming Language.
 
