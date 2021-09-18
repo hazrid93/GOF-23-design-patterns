@@ -1,4 +1,4 @@
-# Design Patterns
+# :sunflower: 23 GOF Design Patterns
 Complete examples and practice questions from the course "Ultimate Design Patterns - Mosh"
 
 > NOTE: All the examples are in Java Programming Language.
@@ -21,6 +21,6 @@ Complete examples and practice questions from the course "Ultimate Design Patter
 15. Visitor
 
 ## Summary of GOF design pattern document
-[Behavioural Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/1-%20Behavioral%20Patterns%20Summary.pdf)
-[Structural Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/2-%20Structural%20Patterns%20Summary.pdf)
-[Creational Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/3-%20Creational%20Patterns%20Summary.pdf)
+[Behavioural Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/1-%20Behavioral%20Patterns%20Summary.pdf) <br/>
+[Structural Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/2-%20Structural%20Patterns%20Summary.pdf) <br/>
+[Creational Pattern Summary](https://github.com/hazrid93/GOF-23-design-patterns/blob/bfc764e353d5859ba58c6ef12d6347531a8c0e43/3-%20Creational%20Patterns%20Summary.pdf) <br/>
